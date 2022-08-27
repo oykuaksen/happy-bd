@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Just For Trying New Inputs!</title>
+    <style>
+    body
+    {
+      background-color: #9BA3EB;;
+    }
+
+    </style>
+  </head>
+  <body>
+    <form class="" action="index.html" method="post">
+      <input type="button" name="" value="">
+      <br>
+      <input type="date" name="" value="">
+      <br>
+      <input type="datetime-local" name="" value="">
+      <br>
+      <label>eMail:</label>
+      <input type="email" name="" value="">
+      <br>
+      <input type="file" name="" value="">
+      <br>
+      <input type="hidden" name="" value="">
+      <br>
+      <input type="image" name="" value="">
+      <br>
+      <input type="month" name="" value="">
+      <br>
+      <input type="number" name="" value="">
+      <br>
+      <input type="radio" name="" value="">
+      <br>
+      <input type="range" name="" value="">
+      <br>
+      <input type="reset" name="" value="">
+      <br>
+      <input type="tel" name="" value="">
+      <br>
+      <input type="text" name="" value="">
+      <br>
+      <input type="time" name="" value="">
+      <br>
+      <input type="url" name="" value="">
+      <br>
+      <input type="week" name="" value="">
+    </form>
+
+  </body>
+</html>
